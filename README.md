@@ -1,7 +1,7 @@
-# Detection-Of-COVID-19-From-Chest-X-Ray
-Detection Of COVID-19 From Chest X-Ray Using Resnet 18 In PyTorch.
+covid19 diagnosis using deep leaning
+Detection Of COVID-19 From Chest X-Ray Using Resnet arcitecture which is related to CNN.
 
-Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19
+Image classification of Chest X Rays in one of three classes: Normal, Viral , COVID-19
 
 Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle.
 
